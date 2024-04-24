@@ -1,4 +1,3 @@
-// components/CenterDiv.tsx
 import React from 'react';
 import styles from '../styles/center-div.module.scss';
 import Link from 'next/link';
